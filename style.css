@@ -1,14 +1,14 @@
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: Arial;
   background: #0f172a;
   color: white;
 }
 
 header {
   background: #1e293b;
-  padding: 20px;
   text-align: center;
+  padding: 20px;
 }
 
 nav a {
@@ -50,9 +50,9 @@ input, textarea {
 }
 
 button {
-  padding: 10px;
   background: #38bdf8;
   border: none;
+  padding: 10px;
   cursor: pointer;
 }
 
